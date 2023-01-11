@@ -1,5 +1,5 @@
 Hello World
-# Heading 1	UC San Diego
-## Heading 2	CSE 15l
-**Bold**	Name : 
-*Italic*	Mohammed 
+# UC San Diego
+## CSE 15l
+**Name :**
+*Mohammed*	 
