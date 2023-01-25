@@ -9,6 +9,10 @@
 
 <img width="1003" alt="Screen Shot 2023-01-11 at 12 31 08 PM" src="https://user-images.githubusercontent.com/110417533/211911553-7a055386-c314-4c40-938d-045dd6ac9bbb.png">
 
+
+
+
+
 2) Remotely Connecting
 - Open the terminal in VScode 
 - Use ssh by entering this command $ ssh cs15lwi23zz@ieng6.ucsd.edu (Replace zz with your account letters)
