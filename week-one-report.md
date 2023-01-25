@@ -1,18 +1,18 @@
 # Week 1 Lab
 
 1) Installing VScode
--Go to https://code.visualstudio.com/download
--Select your computer system
--Follow the steps and launch VScode
+- Go to https://code.visualstudio.com/download
+- Select your computer system
+- Follow the steps and launch VScode
 
 **This should be the main page after entering VScode :**
 
 <img width="1003" alt="Screen Shot 2023-01-11 at 12 31 08 PM" src="https://user-images.githubusercontent.com/110417533/211911553-7a055386-c314-4c40-938d-045dd6ac9bbb.png">
 
 2) Remotely Connecting
--Open the terminal in VScode 
--Use ssh by entering this command $ ssh cs15lwi23zz@ieng6.ucsd.edu (Replace zz with your account letters)
--Press yes and enter your password
+- Open the terminal in VScode 
+- Use ssh by entering this command $ ssh cs15lwi23zz@ieng6.ucsd.edu (Replace zz with your account letters)
+- Press yes and enter your password
 
 **This should be the output when the command runs :**
 
@@ -20,10 +20,10 @@
 
 3) 
 **Try writing some commands (Example below) and observe what happens**
--cd
--pwd
--ls
--rm
+- cd
+- pwd
+- ls
+- rm
 
 **Screenshot below :**
 
