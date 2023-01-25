@@ -18,7 +18,7 @@
 
 <img width="369" alt="Screen Shot 2023-01-11 at 11 17 26 AM" src="https://user-images.githubusercontent.com/110417533/211912427-13b5d244-e905-4b04-9c28-a1df582c909d.png">
 
-3) Trying some commands
+3) Trying some commands.
 **Try writing some commands (Example below) and observe what happens**
 1) cd
 2) pwd
