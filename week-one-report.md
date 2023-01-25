@@ -20,10 +20,10 @@
 
 3) Trying some commands.
 **Try writing some commands (Example below) and observe what happens**
-1) cd
-2) pwd
-3) ls
-4) rm
+*cd
+*pwd
+*ls
+*rm
 
 **Screenshot below :**
 
