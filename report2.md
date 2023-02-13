@@ -21,13 +21,20 @@ I also used some of the code provided in one of the labs to help with the server
 
 <img width="468" alt="Screen Shot 2023-02-13 at 12 51 50 AM" src="https://user-images.githubusercontent.com/110417533/218412834-7cc3bb27-f73c-45e8-8972-ec2cbdebf2c2.png">
 
+
+
 `public void testReverseInPlace() {
     int[] input1 = { 3 };
     ArrayExamples.reverseInPlace(input1);
     assertArrayEquals(new int[]{ 3 }, input1);
 	}
 `
+
+
+
 <img width="639" alt="Screen Shot 2023-02-13 at 12 52 48 AM" src="https://user-images.githubusercontent.com/110417533/218413011-da92ce24-60b7-44e6-8e01-d90808fc9283.png">
+
+
 
 `public void testReverseInPlace2() {
     int[] testArr = {1,2,3};
@@ -35,6 +42,8 @@ I also used some of the code provided in one of the labs to help with the server
     assertArrayEquals(new int[]{3,2,1}, testArr);
   }
 `
+
+
 
 <img width="680" alt="Screen Shot 2023-02-13 at 12 56 18 AM" src="https://user-images.githubusercontent.com/110417533/218413797-6ef48122-8936-451d-8ac5-e1d2af061fa1.png">
 
