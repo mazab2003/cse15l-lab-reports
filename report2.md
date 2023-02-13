@@ -3,10 +3,10 @@
 <img width="620" alt="Screen Shot 2023-02-12 at 11 40 42 PM" src="https://user-images.githubusercontent.com/110417533/218398947-307964c9-87c0-4348-bf3d-0d0284a8951e.png">
 
 
+<img width="743" alt="Screen Shot 2023-02-12 at 11 40 01 PM" src="https://user-images.githubusercontent.com/110417533/218398978-25de78fb-cd20-49ae-b7be-3a2e02bb26fb.png">
+
 <img width="718" alt="Screen Shot 2023-02-12 at 11 40 19 PM" src="https://user-images.githubusercontent.com/110417533/218398961-d8af02bd-2c06-4101-bd4e-e31277504414.png">
 
-
-<img width="743" alt="Screen Shot 2023-02-12 at 11 40 01 PM" src="https://user-images.githubusercontent.com/110417533/218398978-25de78fb-cd20-49ae-b7be-3a2e02bb26fb.png">
 
 *I used ChatGPT to help with debugging the handleRequest method as I was having weird outputs such as printing the same work more than once
 I also used some of the code provided in one of the labs to help with the server.*
