@@ -14,10 +14,7 @@ Example 2 :
 <img width="713" alt="Screen Shot 2023-02-13 at 11 25 10 PM" src="https://user-images.githubusercontent.com/110417533/218667757-6ce1d090-0cb8-4030-bed4-a65067b84987.png">
 
 
-* grep -r is such a powerful command, as it searches through all the files in the directory and its 
-* subdirectories recursively. In the first example, it was used with -c to search for NYC and San Diego and indeed it returned all
-* the lines that contained any of those words. In the second example I used the command alone to search for Los Angeles and all the
-* occurunces of Los Angeles in the text got returned.
+* grep -r is such a powerful command, as it searches through all the files in the directory and its subdirectories recursively. In the first example, it was used with -c to search for NYC and San Diego and indeed it returned all the lines that contained any of those words. In the second example I used the command alone to search for Los Angeles and all the occurunces of Los Angeles in the text got returned.*
 
 
 ** Grep -l Command**
