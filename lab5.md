@@ -49,11 +49,11 @@ date
 
 To replace `cherry` with `grape`, use the following command:
 
-`sed 's/cherry/grape/' fruits.txt`
+`sed s/cherry/grape/ fruits.txt`
 
 # Explanation:
 
-- `'s/cherry/grape/'` is a sed command that replaces the first occurrence of `cherry` with `grape` on each line.
+- `s/cherry/grape/` is a sed command that replaces the first occurrence of `cherry` with `grape` on each line.
 
 # Expected output:
 
