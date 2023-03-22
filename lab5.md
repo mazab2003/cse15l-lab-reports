@@ -20,7 +20,7 @@ Lisa,7000
 
 To calculate the total salary of all employees, use the following command:
 
-awk -F, '{sum+=$2} END {print sum}' employees.txt
+`awk -F, {sum+=$2} END {print sum} employees.txt`
 
 # Explanation:
 
@@ -47,13 +47,13 @@ cherry
 date
 
 
-To replace 'cherry' with 'grape', use the following command:
+To replace `cherry` with `grape`, use the following command:
 
-sed 's/cherry/grape/' fruits.txt
+`sed 's/cherry/grape/' fruits.txt`
 
 # Explanation:
 
-- `'s/cherry/grape/'` is a sed command that replaces the first occurrence of 'cherry' with 'grape' on each line.
+- `'s/cherry/grape/'` is a sed command that replaces the first occurrence of `cherry` with `grape` on each line.
 
 # Expected output:
 
@@ -79,7 +79,7 @@ Consider a file named `numbers.txt` with the following content:
 
 To sort the numbers in descending order, use the following command:
 
-sort -nr numbers.txt
+`sort -nr numbers.txt`
 
 # Explanation:
 
@@ -110,7 +110,7 @@ blue
 
 To display unique colors, use the following command:
 
-sort colors.txt | uniq
+`sort colors.txt | uniq`
 
 # Explanation:
 
